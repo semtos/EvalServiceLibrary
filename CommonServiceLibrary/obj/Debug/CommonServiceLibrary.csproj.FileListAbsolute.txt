@@ -1,0 +1,4 @@
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\CommonServiceLibrary\bin\Debug\CommonServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\CommonServiceLibrary\bin\Debug\CommonServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\CommonServiceLibrary\obj\Debug\CommonServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\CommonServiceLibrary\obj\Debug\CommonServiceLibrary.pdb

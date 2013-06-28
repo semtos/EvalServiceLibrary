@@ -1,0 +1,5 @@
+C:\Users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\Client\bin\Debug\Client.exe.config
+C:\Users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\Client\bin\Debug\Client.exe
+C:\Users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\Client\bin\Debug\Client.pdb
+C:\Users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\Client\obj\Debug\Client.exe
+C:\Users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\Client\obj\Debug\Client.pdb

@@ -1,0 +1,8 @@
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\bin\Debug\EvalServiceSelfHost.exe
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\bin\Debug\EvalServiceSelfHost.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\bin\Debug\EvalServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\bin\Debug\EvalServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\obj\Debug\EvalServiceSelfHost.csprojResolveAssemblyReference.cache
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\obj\Debug\EvalServiceSelfHost.exe
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\obj\Debug\EvalServiceSelfHost.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceSelfHost\bin\Debug\EvalServiceSelfHost.exe.config

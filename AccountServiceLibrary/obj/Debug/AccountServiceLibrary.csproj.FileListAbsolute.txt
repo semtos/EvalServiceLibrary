@@ -1,0 +1,7 @@
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\bin\Debug\AccountServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\bin\Debug\AccountServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\bin\Debug\CommonServiceLibrary.dll
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\bin\Debug\CommonServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.csprojResolveAssemblyReference.cache

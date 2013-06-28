@@ -1,0 +1,6 @@
+c:\users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.dll
+c:\users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.pdb
+c:\users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.dll
+c:\users\semihtosun\documents\visual studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.pdb
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\obj\Debug\EvalServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\semihtosun\Documents\Visual Studio 2012\Projects\EvalServiceLibrary\EvalServiceLibrary\bin\Debug\EvalServiceLibrary.dll.config
